@@ -76,3 +76,78 @@ Iris se revuelve un poco en el asiento. Arruga ligeramente la nariz antes de con
 
 Antes de salir, Ricard pasa por uno de los laboratorios y recoge una pequeña probeta, unas pinzas y una bolsa de muestras. Es lo suficientemente pequeño para no llamar la atención, piensa mientras lamenta tener que dejar atrás su maletín con elementos más sofisticados, bajo ningún concepto puedo dejar que los demás sospechen lo que busco en realidad.
 Además, de esta manera quizás pueda guardarme mi propia muestra.... Comprueba a su vez que la 9mm con silenciador que siempre le acompaña está correctamente ajustada, se enfunda su abrigo negro y se dispone a salir a la noche barcelonesa.
+
+# Master
+
+No tardas mucho en llegar al carrer Comptal. Es una noche de martes, así que las calles están traquilas y difícilmente hay nadie más que tú conduciendo por la ciudad. Sin embargo, a medida que te vas aproximando a Via Laietana, el ambiente cambia ligeramente. A pocos metros de la intersección, puedes ver dos patrulleros y un grupo de como diez personas siendo bloqueadas por tres policías. Muchos tienen su móvil en la mano y parecen intentar sacar fotos. Intuyendo que estás en tu destino, aparcas la moto y te acercas a la escena. 
+
+Puedes notar que se encuentran en la entrada de un callejón, bloqueada por cinta policial de un color amarillo fosforescente. Dicho callejón tiene aproximadamente diez metros de profundidad y termina en una pared de ladrillo. A la derecha parece haber un bar, a la izquierda un edificio residencial. Todos los cristales de ambos complejos están rotos, dejando un regadero de vidrio roto en el suelo, tanto en la escena misma, como en los alrededores. Contra la pared del edificio y debajo de una escalera de incendios, hay un contenedor de basura. Parece haber sido aplastado y sobre él hay un cadáver. Un rastro de sangre se extiende desde el mismo hasta aproximadamente un metro de distancia con la cinta policial.
+
+- Por favor, manténganse a al menos un metro de la cinta. - Puedes escuchar a los policías pedir a los civiles mientran empujan ligeramente con las manos y señalan detrás de ellos.- Intenten mantener la zona intacta hasta que venga el equipo de investigación.
+
+# Brais
+
+Tras estacionar su motocicleta, Ricard se dirige con paso firme y seguro hacia la cinta policial. Anota mentalmente el nombre del bar (podría ser útil volver en el futuro a preguntar, pero no ahora con tanta gente rondando), y se dirige hacia el agente con mayor apariencia de novato/juventud, con voz rutinaria y firme:
+
+- Buenas noches, agente. Vengo de parte de Nicholas, hay trabajo que hacer y no quisiera demorarme en exceso. Podría acompañarme hasta la zona del cadáver y comentarme lo que considere relevante?
+
+Mientras habla con el policía, Ricard observa disimuladamente al público acumulado ante el cordón policial, tratando de discernir si alguien muestra una actitud atípica o reconoce a alguien entre ellos (tirada de percepción + alerta/?)
+
+# Master
+
+Un vistazo a los agentes te permite distinguir uno cuyo escudo se corresponde al de un policía en prácticas: La corona sobre una pluma dorada sin ninguna marca debajo. Es el que en mejor forma se encuentra de los tres, posee una figura atlética, rasgos afilados y un aire de confianza. Intuyes que debe tener entre veinticinco y veintisiete años. Luego de pedirle que te deje pasar, se detiene durante un momento y mira para los costados, comprobando que sus superiores se encuentran entretenidos manteniendo a la gente fuera del alcance.
+
+- Ah, sí, me dijeron algo de eso. Eres... Uhm... Eres del grupo de investigación, ¿no? -Titubea un momento y echa un vistazo por detrás de tu hombro, en dirección al patrullero.- Sí, sí, tenemos una lista de nombres en el coche. Éste... ¿Me puedes dar tu dni o algún tipo de carnet con foto para que pueda comprobar que estás ahí?
+
+Mientras el policía habla, miras hacia el grupo de personas. No notas nada particularmente sospechoso en ellas: Hay un grupo de tres adolescentes sacando fotos y comentando en voz alta cómo creen que sucedió el asesinato, dos amigas en la veintena cuchilleando entre ellas, un hombre de unos cincuenta años con una niña de cerca de ocho tomada de su mano y un par de tipos solos, uno con las manos en sus jeans y esforzada cara de desinterés y otro estirando el cuyo para intentar ver por encima de los policías.
+
+# Brais
+
+Vaya, vaya, parece que tenemos un joven disciplinado dispuesto a hacer cumplir la ley. Lástima que te hayas ido de la lengua.... El Vampiro establece contacto visual, y agradece internamente que el resto de policías estén lo suficientemente ocupados como para distraerle. Se concentra de manera intensa, utilizando uno de los poderes más representativos de su clan (Dominación: Mesmerismo):
+
+- Así es, ¿eres nuevo en el cuerpo, verdad? Solemos encargarnos de desastres como el de ahí detrás (señalando al fondo del callejón)- mientras habla Ricard saca y su cartera y la abre de manera fugaz, como si mostrase su documentación despreocupadamente.- Ahora, escúchame bien, esto es importante, has hablado de una lista, verdad? Necesito echarle un vistazo, tengo que asegurarme de que nadie más que mi equipo tiene permiso para intervenir aquí. Por lo que he oído, la víctima podría tener conexiones y lo último que quiero es que un investigador privado interfiera en nuestro trabajo, ¿lo entiendes, no es así? Lo peor que puede pasar es que por un procedimiento irregular la investigación pueda ser desacreditada en un juzgado o que alguien trate de buscar la justicia por su mano. Es tarea de la policía proteger y servir, y por eso no podemos tener por ahí a gente fuera de la ley tratando de hacer nuestro trabajo.
+
+Espero que hayas entendido la importancia de esto, necesito comprobar esa lista y ser informado si alguien que no aparezca en ella trata de acceder a la escena del crimen. 
+
+Tras construir todo el argumento y apelar al sentido al sentido profesional del policía, Ricard espera unos segundos para ver si la sugestión tiene efecto.
+
+# Master
+
+Mientras tú hablas el oficial asiente con la cabeza un par de veces. Le hace una señal a su compañero y señala el coche, indicándole que se tiene que alejar durante unos minutos de la escena. Éste no parece prestarle mucha atención y parecía estar más ocupado con mantener a los tres adolescentes bajo control.
+
+- Claro, señor, tiene sentido. Deme un minuto, voy a buscar la lista.
+
+Dicho policía se aleja hacia el coche, donde se pierde unos veinte segundos. A su vuelta tiene una hoja en blanco en la mano, la cual te extiende. Resulta un poco ridícula: Es un folio tamaño A4 con solo cinco líneas escritas. En la primera reconoces el nombre de la Sheriff, Ada. Tu nombre es el tercero. Los siguientes dos son los recientes chiquillos de dos Primogénitos: El Toreador y el Nosferatu. No recuerdas mucho de ellos más allá de haber intercambiado saludos en su presentación en sociedad. El tercero no lo reconoces. (Aquí es cuando te daría los nombres exactos si los tuviese . En cuanto las fichas se vayan completando te los voy dando.)
+
+- Nadie se acercó que no estuviese en esa lista o llevase una placa, señor. -Dijo con cierto orgullo el joven policía.- De hecho, de entre los nuestros solo nosotros tres hemos entrado y no tocamos nada, solo nos aseguramos de mantener todo intacto. De la lista, la señora... Señorita... La chic... El primer nombre. Ada. Ella vino. Nos pidió lo mismo que tú. ¿Hay algo más en lo que pueda ayudarlo, señor?
+
+# Brais
+
+- Una última cosa, agente: ¿hay algún testigo? * - Tras escuchar la respuesta, Ricard se despide- Me pondré con mi trabajo y dejaré que siga con el suyo.
+
+Ricard esboza una sonrisa cómplice y asiente a modo de despedida. A fin de cuentas, el favor de un policía, siempre era un recurso que convenía conservar. Mientras se dirige al fondo del callejón, saca su teléfono móvil y escribe el siguiente mensaje a Iris:
+
+" Tengo los nombres de la cuadrilla(aquí irían los nombres del resto del personajes): si hay algo sobre ellos llamativo o que sirva de utilidad, hacédmelo saber. R.
+
+A continuación, se dispone a observar minuciosamente la escena y el cadáver, buscando cualquier cosa que pueda ser de utilidad o darle alguna pista sobre el crimen (Tirada de Percepción + alerta). En su cara se refleja una mueca de desagrado:Tsch... espero que esta pérdida de tiempo sirva para algo- piensa mientras sus ojos recorren el callejón y el cuerpo.
+
+
+* Nota: Para agilizar un poco, me he tomado la libertad de continuar tras la pregunta al policía. Al ser una respuesta de sí o no y no de efecto inmediato, escribí ya el resto del turno.
+
+Nota 2: Por lo de los nombres no hay problema, a ver si poco a poco se van animando y para la semana que viene arrancan con su prólogo.
+
+# Master
+
+- No, señor. Al parecer fue muy ruidoso, los dos o tres bares de la calle escucharon fuertes explosiones, pero no hubo testigos directos, ya que parece que todo fue muy rápido. 
+
+Mientras cruzas la cinta policial y te acercas. El charco de sangre se extiende desde el contenedor a la cinta, casi. Hay otras marcas, pero parecen venir de otros rastros y están principalmente alrededor de la escalera de incendios. El contenedor de basura está abollado desde arriba, en dos sitios, uno donde está el cuerpo, otro en el que ya no hay nada. Cuando te acercas a inspeccionar el cuerpo notas que aparte de heridas que parecen causadas por una caída, hay dos marcas muy visibles: Un disparo en los riñones y cuatro cortes paralelos y profundos en el cuello, de donde parece provenir la mayor parte de la sangre.
+
+El cuerpo corresponde al de un hombre de veintitantos. De piel morena, cabello oscuro y aproximadamente metro ochenta de altura. Lleva unos jeans, una camisa color azul y una chaqueta de cuero. 
+
+Nota: Le hice un pequeño ajuste a la tirada: Precepción+Investigación. Normalmente se usa investigación cuando quieres sacar pistas donde no sabes exactamente qué buscas y alerta para intentar notar detalles específicos (i.e. investigación en la escena de un crimen que no sabes cómo se cometió, alerta cuando miras los uniformes de policias para buscar señas de novatos). 
+
+Sí, confío en poder terminar al menos la ficha de Lillith esta semana. Intentaré ver si puedo contactar con Batsa y Althea para hacer la ficha juntos, tengo la sensación de que si nos ponemos por Skype lo acabamos mucho más rápido. Y en realidad es la parte más burocrática y aburrida, una vez tienen eso ya se puede empezar con lo divertido.
+
+# Brais
+
+
