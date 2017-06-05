@@ -14,13 +14,13 @@ Es un área de cerca de trescientos metros cuadrados, con tres laboratorios dist
 
 >> Desde su desaparición, Genio se ha concentrado en seguir con los detalles de la investigación, mientras yo he tomado sus funciones políticas. Nuestro objetivo no es reemplazar a Angus, si no mantener todo en funcionamiento hasta que sepamos qué le ha pasado y si podemos o no seguir contando con él. Si lo podemos devolver a sus funciones, aunque eso signifique mi vuelta a Vienna, mejor para todos. A partir de ahora ésa será nuestra máxima prioridad. 
 
->> Tanto Genio como yo seguiremos con nuestras actuales funciones. Brais, dado que las negociaciones con el gobierno español van encaminadas, hemos decidido cambiar tus prioridades. Tu inteligencia y conocimiento de Barcelona nos serán útiles para averiguar qué pasó con Angus. Como antes, tu objetivo debe permanecer en estas paredes. Es importante impedir que el resto de los clanes sepan qué ha pasado con él, dado que es en nuestro mayor interés mantener los descubrimientos sobre dicha sustancia dentro de la Casa. Podríamos estar hablando de los primeros pasos en la creación de una nueva línea de sangre. 
+>> Tanto Genio como yo seguiremos con nuestras actuales funciones. Ricard, dado que las negociaciones con el gobierno español van encaminadas, hemos decidido cambiar tus prioridades. Tu inteligencia y conocimiento de Barcelona nos serán útiles para averiguar qué pasó con Angus. Como antes, tu objetivo debe permanecer en estas paredes. Es importante impedir que el resto de los clanes sepan qué ha pasado con él, dado que es en nuestro mayor interés mantener los descubrimientos sobre dicha sustancia dentro de la Casa. Podríamos estar hablando de los primeros pasos en la creación de una nueva línea de sangre. 
 
 >> Recientemente, el clan setita ha sufrido dos bajas importantes. Tres de sus más valiosos ghoules ha sido asesinado, el último hace unas pocas horas. Han presionado al príncipe para investigar lo ocurrido y éste ha pedido formar una cuadrilla de neonatos para tomar manos en el asunto. Creemos que puede estar relacionado de algún modo con lo que le pasó a Angus y hemos decidido que serías un miembro ideal de dicho grupo. Obviamente, lo que le haya matado a las serpientes es secundario, pero mantener las apariencias sobre el verdadero objetivo es importante.
 
 >> Lo sentimos por lo abrupto de la decisión. No es el modo en que este clan prefiere manejarse, pero la inesperada tercer muerte ha puesto nervioso a los setitas y en consecuencia, al príncipe. Serás introducido a dicho grupo y a la escena en las próximas horas. No dudes en pedir recursos al clan, determinar qué le pasó a Angus es nuestra máxima prioridad. ¿Tienes alguna duda que podamos resolver?
 
-# Brais
+# Ricard
 
 Ricard escucha con atención y aparente calma a Iris, sin embargo su mente estaba en ebullición: por un lado, hacia ya tiempo que deseaba conocer el destino de su sire (pese a no existir una relación fraternal entre ambos, de ninguna manera se podía tolerar que otro clan bajo ningún concepto se inmiscullese en los asuntos de los Tremere), y por otro, esta nueva información acerca de la extraña sustancia despertaba totalmente su curiosidad.
 
@@ -54,7 +54,7 @@ Luego de perderse por un par de minutos en el laboratorio, vuelve con una conten
 
 - Es todo lo que sabemos. No he querido arruinarlo con experimentos de resistencia sobrenatural porque no tengo ninguna hipótesis sobre qué tan resistente resulte y tengo miedo de quedarme sin muestras con las que seguir trabajando, así que poco sé sobre su naturaleza. Parece poseer algún tipo de sangre, pero me he negado a hacer el reconocimiento básico del Gusto de Sangre hasta determinar qué tan perjudicial puede ser probarla. Creo que mi siguiente paso será hacer algunas pruebas básicas de comportamiento frente a otro tipo magia de sangre y tratar de llegar a alguna conclusión desde ahí. Lamento profunda la poca información que puedo proveer al respecto. Esta sustancia ha sido objeto de mi frustración durante los últimos meses.
 
-# Brais
+# Ricard
 
 Ricard asiente lentamente mientras asimila toda la información:
 
@@ -70,7 +70,7 @@ Iris se revuelve un poco en el asiento. Arruga ligeramente la nariz antes de con
 
 - Sí, Nicholas es impredecible últimamente. No acabo de entender por qué Angus mostraba apoyo en su candidatura, pero es imprudente hacer ningún movimiento sin contrastar la información que él haya podido tener y yo no. Aún más sin saber qué cruza la cabeza de Marcus la mayoría del tiempo. En fin. Ya me iré ocupando de eso. La reunión es en dos horas. El Príncipe a pedido a los policías mortales que dejen la escena intacta durante algunas horas más para que podáis ir a verla. El suceso fue en un callejón del Carrer Comptal, justo antes de llegar a Via Laietana. Lo notarás enseguida debido a que está cercado por la policía para mantenerlo intacto. Si entras diciendo que vas en nombre de Nicholas, te dejarán pasar. Tienes dos horas antes de la runión con el resto de la cuadrilla. Os veréis a pocas manzanas de ahí, en el refugio del príncipe: La casa Miro. Ada guarda la entrada. En el Elíseo (Plaça Catalunya), seguramente encuentres al representante setita. Siéntete libre de explorar a gusto hasta el horario de la reunión.[B]
 
-# Brais
+# Ricard
 
 - De acuerdo, en ese caso será mejor que me ponga en marcha cuanto antes. Con vuestro permiso.
 
@@ -85,7 +85,7 @@ Puedes notar que se encuentran en la entrada de un callejón, bloqueada por cint
 
 - Por favor, manténganse a al menos un metro de la cinta. - Puedes escuchar a los policías pedir a los civiles mientran empujan ligeramente con las manos y señalan detrás de ellos.- Intenten mantener la zona intacta hasta que venga el equipo de investigación.
 
-# Brais
+# Ricard
 
 Tras estacionar su motocicleta, Ricard se dirige con paso firme y seguro hacia la cinta policial. Anota mentalmente el nombre del bar (podría ser útil volver en el futuro a preguntar, pero no ahora con tanta gente rondando), y se dirige hacia el agente con mayor apariencia de novato/juventud, con voz rutinaria y firme:
 
@@ -101,7 +101,7 @@ Un vistazo a los agentes te permite distinguir uno cuyo escudo se corresponde al
 
 Mientras el policía habla, miras hacia el grupo de personas. No notas nada particularmente sospechoso en ellas: Hay un grupo de tres adolescentes sacando fotos y comentando en voz alta cómo creen que sucedió el asesinato, dos amigas en la veintena cuchilleando entre ellas, un hombre de unos cincuenta años con una niña de cerca de ocho tomada de su mano y un par de tipos solos, uno con las manos en sus jeans y esforzada cara de desinterés y otro estirando el cuyo para intentar ver por encima de los policías.
 
-# Brais
+# Ricard
 
 Vaya, vaya, parece que tenemos un joven disciplinado dispuesto a hacer cumplir la ley. Lástima que te hayas ido de la lengua.... El Vampiro establece contacto visual, y agradece internamente que el resto de policías estén lo suficientemente ocupados como para distraerle. Se concentra de manera intensa, utilizando uno de los poderes más representativos de su clan (Dominación: Mesmerismo):
 
@@ -121,7 +121,7 @@ Dicho policía se aleja hacia el coche, donde se pierde unos veinte segundos. A 
 
 - Nadie se acercó que no estuviese en esa lista o llevase una placa, señor. -Dijo con cierto orgullo el joven policía.- De hecho, de entre los nuestros solo nosotros tres hemos entrado y no tocamos nada, solo nos aseguramos de mantener todo intacto. De la lista, la señora... Señorita... La chic... El primer nombre. Ada. Ella vino. Nos pidió lo mismo que tú. ¿Hay algo más en lo que pueda ayudarlo, señor?
 
-# Brais
+# Ricard
 
 - Una última cosa, agente: ¿hay algún testigo? * - Tras escuchar la respuesta, Ricard se despide- Me pondré con mi trabajo y dejaré que siga con el suyo.
 
@@ -148,6 +148,51 @@ Nota: Le hice un pequeño ajuste a la tirada: Precepción+Investigación. Normal
 
 Sí, confío en poder terminar al menos la ficha de Lillith esta semana. Intentaré ver si puedo contactar con Batsa y Althea para hacer la ficha juntos, tengo la sensación de que si nos ponemos por Skype lo acabamos mucho más rápido. Y en realidad es la parte más burocrática y aburrida, una vez tienen eso ya se puede empezar con lo divertido.
 
-# Brais
+# Ricard
 
+"Hmmm esta herida parece fea" (tirada: astucia + ocultismo, tratando de identificar si la herida proviene de un vampiro o criatura sobrenatural).
+
+Tras examinar el cuerpo, Ricard echa una mirada a la escalera de incendios, pero decide salir del callejón y caminar hacia su motocicleta. "No hay ni rastro del fluído misterioso, y no seré yo quién se preocupe más de la cuenta por la muerte de un setita. A fin de cuentas, un perro menos en Barcelona no marca demasiado la diferencia".
+
+Si no ocurre nada extraordinario que lo impida, viaja hacia el Elíseo.
+
+# Master
+
+Luego de intentar inspeccionar la herida durante un par de minutos, te das por vencido. No consigues encontrar ninguna pista que identifique si fue causa de manera sobrenatural o no.
+
+Antes de subir a la moto, recibes un mensaje de texto de Iris: "Sí. Tabsa es la chiquilla de Abdel. Como su sire, se mueve como pez en el agua en cualquier lugar de dudosa reputación y tiene un excelente conocimiento de la ciudad. La abrazaron para tener un contacto con los bajos fondos de Barcelona. Brais es el chiquillo de Hans. Lo abrazaron porque sabe hablar sobre arte, evidenciando que no hay que dejar que un Toreador tome decisiones de adultos. Al otro nombre no lo ubico, te respondo luego de investigar un poco más."
+
+Tan pronto como llegas a Plaça Catalunya, aparcas la moto en la entrada del metro frente a la FNAC. Caminando, te diriges al centro de la Plaza y el corazón del Elíseo. Ahí mismo distingues la figura de dos personas de pie una junto a la otra y en silencio. Una de ellas es fácil de identificar: vestida con unos jeans blancos, una blusa de color negro, tacones altos y una coleta oscura está Jazmin, la guardián del Elíseo. A pesar de no haber intercambiado nunca más de dos o tres cordialidades, su exuberante apariencia física resulta muy fácil de recordar: Tiene una figura estilizada y altamente cuidada. Su rostro es delicado y con rasgos finos, con el único defecto de una nariz ligeramente pequeña, el cual lejos de afearla le da un aspecto dulce. Su color de piel es ligeramente oscuro, algo raro entre vástagos, contrastando muchísimo con el tono ceniza que destilan sus ojos. 
+
+(Tirada de inteligencia+política para ver si reconoces al otro. Sacaste seis éxitos, con dos dieces incluidos. Me siento tentado a ponerte la biografía detallada del tipo ).
+
+Al lado de ella, vestido con unos pantalones militares rotos, una camiseta blanca engrasada y una chaqueta de jean con las mangas cortadas reconoces a Marc, uno de los altos mandos Setita. Solía llevar una casa de empeño en Barcelona durante la dictadura y se dedicaba al tráfico de toda clase de objetos ilegales, desde animales exóticos hasta videos snuff. Su negocio es aún bien conocido en la ciudad y has escuchado a más de un policía hablar sobre cómo consiguen armamento de clasificación militar de él mientras negociabas tus contratos con ellos. Al parecer fue abrazado por los setitas al poco del inicio de la transición y desde entonces el punto de contacto entre sus peones en la calle y los mandamases del clan en la ciudad.
+
+Éste es, sin embargo, la primera vez que lo te lo cruzas en persona. Luce extremadamente delgado y tanto su piel como su cabello lucen grasosos y brillantes. Tiene cabello oscuro y enrulado, junto con unas facciones duras y marcadas con un acné en pésimo estado. Mientras te acercas, ambos se giran hacia ti. Jazmin te dirige un saludo con la mano.
+
+# Ricard
+
+Vaya, esperaba poder hablar con Jazmin a solas.. pero visto lo visto, no hay mal que por bien no venga.. Ricard es consciente de que es una situación donde la diplomacia es vital, y aún siendo consciente de que el setita probablemente esté al tanto de todo, decide guardar sus cartas por el momento. Con un tono serio, seco y formal se dirige a Jazmin, aunque alterna la mirada entre ambos:
+
+- Hola, Jazmín, siempre es un placer verte de nuevo - hace un gesto de saludo inclinando levemente la cabeza hacia el setita.- Supongo que he de entregarte mi arma, no es que este juguete sea objeto de preocupación, pero las normas son las normas, al fin y al cabo no seríamos nada sin ellas. Como sabes, no frecuento más sitios que mis laboratorios generalmente, pero la noche se siente rara últimamente en Barcelona y qué mejor lugar que éste para captar el ambiente, no lo crees?
+
+Nota: No sé si para causar una buena impresión es necesario hacer una tirada de apariencia + etiqueta, supongo que no, pero en esos casos siéntete libre como máster para incluirlas y decirme, yo trataré solo de marcar las más evidentes por mi parte.
+
+P.D. Parece que la gente ya va estando lista, no? Si voy muy lento en el prólogo me dices.
+
+# Master
+
+Sí, tirada de Carisma+Etiqueta aquí. 
+
+Jazmin recoge tu arma con una sonrisa y la guarda dentro de su bolso.
+
+- Muchas gracias, es un placer tratar con gente tan respetuosa de mi trabajo. -Responde con una sonrisa. Su voz es melodiosa y con ligeros exabruptos que le dan un aire musical.- ¡Me alegra verte! He escuchado que has tenido mucho trabajo últimamente, es una excelente noticia que finalmente te hayas tomado un descanso. Y sí, tienes toda la razón, mi estimado compañero, un aire extraño anda rondando la ciudad últimamente. 
+
+>> Hablando de lo cual, Ricard, permíteme presentarte a Marc. Es un seguidor del Set y un íntimo amigo de la Camarilla. Nos acompaña esta noche para asegurarse de que nuestra amistad siga tan fresca como siempre. Su clan está sufriendo la rareza del ambiente y nos hemos ofrecido a ayudarlos. Marc, Ricard es miembro del clan Tremere, el chiquillo de Angus, a quien estoy segura que has conocido. 
+
+Jazmin acompaña sus palabras con gestos de manos, acariciando muy ligeramente tanto a uno como a otro en el brazo durante las presentaciones. Siempre con una ligera y sumamente amistosa sonrisa. 
+
+La sonrisa de Marc, por otra parte, era parcial y parecía estar cargada de ironía. Cuando te acercas a ellos, él te repasa de arriba a abajo sin molestarse en disimular y se reacomoda ligeramente en su posición, sacando pecho y jugando con uno de los anillos que llevan en sus manos. Cuando Jazmin termina, él responde.
+
+- RIcard, eh. Un brujo. -Parece gratamente sorprendido.- He escuchado que podéis hacer cosas bastante asombrosas con esa sangre vuestra. Ja, qué bueno sería si pudieses sacar un asesino de dentro de un sombrero. ¿Serás tú parte de esa ayuda de la que la Camarilla tanto habla?
 
