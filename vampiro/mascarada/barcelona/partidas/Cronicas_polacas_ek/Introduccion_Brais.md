@@ -11,3 +11,20 @@ Una vez la escena termina, con la conclusión del primer acto, los intérpretes 
 >> A cambio de fingir bostezos en las reuniones de la Camarilla y digo que sí a todo lo que Marcus dice, he ido ganando influencia. "Hans, vota que tal y te doy el Liceu," "Hans di que sí y te dejo la Galería Mutuo." Pobre, sus cientos de años de experiencia no fueron suficientes para darse cuenta de que me ha dejado el control completo sobre el mundo humano de la ciudad. Mientras ellos juegan a "Canción de Hielo y Fuego" entre sí, el verdadero control detrás las cortinas lo he ido tejiendo yo. Esto, estimado Brais, es mi obra. Barcelona seguirá los pasos de París. Será la siguiente capital Toreador de Europa. Y ahí es donde tú entras. Vamos, eres lo suficientemente inteligente para saber que no te invité aquí solamente para charlar y escuchar a Mozart. Tu conversación es maravillosa, pero no es lo que busco de ti hoy.
 
 >> Tenemos un problema. Mientras el resto de los clanes se pelea entre sí, alguien ha estado matando servidores setitas. Los Seguidores del Set son un dolor de cabeza, pero los necesitamos. La Camarilla debe mantener el apoyo de los clanes neutrales para poder defender Barcelona del Sabbat. Y lo que sea que ha estado matando a las serpientes... Bueno, puede interesarse en atacarnos a nosotros también. Nicholas les ha prometido que formará una cuadrilla para investigarla. El problema, es que el resto de miembros estará ocupado peleando entre sí y no prestarán atención a su trabajo. Brais, te necesito ahí para mantener el orden. Serás parte de la cuadrilla. No hace falta que hagas nada, solo que te asegures que el resto se mantenga enfocado. Si resolvemos este problema... Bueno, los setitas se han ofrecido a darnos control sobre la Fira. Ya estoy aquí en el Liceu y Jazmin en Mutuo. ¿Qué tanto te gustaría dirigir el centro de conferencias más importante del país?
+
+# Brais
+
+A Brais se le iluminó la cara al escuchar que su apreciado Sire, requisaba de su ayuda. La sola idea de que algo pueda enturbiar su tranquila vida de fiestas y lujuria era algo que no podía tolerar. 
+¿Qué está matando a las Serpientes? Le da exactamente igual, pero esa posible amenaza puede traerle consecuencias futuras, además, su insaciable curiosidad le motivaba a querer formar parte de esa cuadrilla, solo habrá que ver a qué "tipos" tiene que aguantar.
+- Es un honor que hayas pensado en mi para tal misión. No dudes que cumpliré mi parte y descubriré qué o quiénes están alterando las maravillosas noches de mi querida Barcelona. En cambio- cambiando la expresión de su cara por una más burlona-, ¿crees que yo sería idóneo para dirigir el Liceu?, mejor dicho, ¿crees que sería idóneo para dirigir algo? jajaja. El poder es algo que me atrae sí, pero en muchos casos lleva consigo muchas responsabilidades que no estoy dispuesto a aceptar. Obligaciones, compromisos....-dice con aire pensativo-, son cosas de las que que todavía no estoy preparado- concluye con una sonrisa encantadora.
+
+# Master
+
+Hans ríe escandalosamente ante la picardía de su chiquillo y se balancea un poco en la silla. 
+
+- Ah, Brais, tienes tiempo hasta que nos den la Fira para pensarlo. La oferta seguirá en pie. Pero claro, no seré yo quién intente quitarte del mundo nocturno. Al fin y al cabo, eso también nos es útil. Desde luego eres una excelente fuente de información sobre dónde salir un sábado en la noche. Ya me dirás luego si cambias de parecer. Por lo pronto, ¿tienes alguna duda sobre la misión? ¿Algo que te pueda resolver?
+
+# Brais
+
+-Tengo curiosidad por el resto de especimenes que serán los afortunados que disfrutarán de mi presencia, pero eso intuyo que será el día que nos conozcamos, al igual que los detalles de la misión, aunque... voy a tener que estar a las órdenes de alguno de ellos? Solo espero que al menos sea atractivo jejeje...
+Hasta entonces podrás encontrarme en la Rosa Roja... "preparándome"...

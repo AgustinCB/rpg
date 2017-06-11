@@ -51,3 +51,42 @@ Me recoloco el poco cabello que me queda con un gesto rápido. Durante mi vida h
 Ahora es tu decisión qué hacer. Puedes hacer más preguntas a tu sire o ir a cualquiera de esos lugares o contactar a alguien más o simplemente sentarte y esperar una hora. 
 
 Un comentario sobre afuera: Recuerda que tu apariencia es monstruosa. Cuando caminas por la calle, tienes que ir cubierta o disfrazada o levantarás miradas y asustarás a todo el mundo. Desde luego, presentarte en una escena policial no es tan fácil. Tendrías que esconderte y acceder sin ser vista.
+
+# Tabsa
+
+-¿Una hora? Hmm.
+
+Mi instinto me pide ir a hablar con ese reprensentante de los setitas. Al fin y al cabo, nunca viene mal contar con información extra. Sin embargo, una hora es poco tiempo para sacar nada en claro. (He preguntado a Konel y me comenta que en la realidad este sitio y el Elíseo están algo distantes).
+
+-Voy a acercarme a la escena del crimen. Igual encuentro alguna pista.
+
+No estoy muy convencida, pero es mi único recurso para matar el tiempo hasta la reunión.
+Al levantarme de la cama, mis rodillas esqueléticas crujen. El sonido retumba por toda la estancia.
+
+# Master
+
+Tomas la línea de ferrocarriles en dirección a Plaça Catalunya. Uno de los últimos trenes, está deshabitado casi, así que no tienes problemas para perderte en la oscuridad de la estación. Luego de unos quince, minutos llegas finalmente a destino. En lugar de dirigirte al Elíseo, tomas la esplanada y en pocos minutos llegas a la escena del crimen. Es fácil de reconocer, durante tu camino al lugar, las calles estaban vacías, pero ni bien te acercas a Via Laietana, ves un tumulto de gente.
+
+Puedes notar que se encuentran en la entrada de un callejón, bloqueada por cinta policial de un color amarillo fosforescente. Dicho callejón tiene aproximadamente diez metros de profundidad y termina en una pared de ladrillo. A la derecha parece haber un bar, a la izquierda un edificio residencial. Todos los cristales de ambos complejos están rotos, dejando un regadero de vidrio roto en el suelo, tanto en la escena misma, como en los alrededores. Contra la pared del edificio y debajo de una escalera de incendios, hay un contenedor de basura. Parece haber sido aplastado y sobre él hay un cadáver. Un rastro de sangre se extiende desde el mismo hasta aproximadamente un metro de distancia con la cinta policial.
+
+Te mantienes a una distancia relativamente segura y fuera del alcance de vista de los policías, intentando mantener la capucha de tu chaqueta sobre tu cabeza, pero desde la que no puedes llegar a ver con mucho más detalle lo que ha pasado en la escena. 
+
+# Tabsa
+
+Me encojo para que mi capucha cubra mi rostro lo mejor posible. No puedo dejar que me vean. Con mi aspecto y en la escena de un crimen, llamaría demasiado la atención. Con las manos en los bolsillos y la vista hacia el suelo, trato de deslizarme entre la gente y acercarme. Solo pretendo echar un vistazo rápido antes de reunirme con mi cuadrilla.
+
+# Master
+
+Tirada de Destreza+Sigilo para ver si tienes éxito. Como son un total de ocho dados y la dificultad es de seis, consigues un éxito automático (cuando tienes más dados que dificultad se asume que te sale bien automáticamente).
+
+Sin mucho esfuerzo pasas entre las personas. Te has pasado la vida siendo ignorada por la gente de a pie y sabes perfectamente cómo moverte y comportarte para que nadie te mire. Se ha hecho hasta parte de tu naturaleza. Te escabulles entre dos grupos de personas y miras de reojo hacia la escena.
+
+Aquí tiro Percepción+Investigación para ver cuánta información sacas desde ahí. En estes tipos de tirada no te voy a decir el resultado que obtienes, para librarte de tener que interpretar no saber algo que sí sabes.
+
+Lo primero que te llama la atención es el hecho de que los contenedores de basura tienen dos abolladora. Una donde está el cuerpo, la otra donde no hay nada, una al lado de la otra. Incluso desde esa distancia, eres capaz de notar cómo el cuerpo tiene un solo disparo, a la altura de los riñones, y cuatro cortes paralelos en el cuello. Dichos cortes son irregulares y no parecen hechos por un arma de file sino que por algo orgánico. 
+
+Aparte del charco que va del contenedor a la cinta policial, hay otro rastro de sangre en el barandal de las escaleras de incendios, mucho más sutil y que parece extenderse hasta el segundo piso. Ahí es cuando notas algo aún más raro: Los cristales del bar están todos destrozados, así como los del edificio de al lado. Y eso incluye los de las ventanas que hay en los pisos superiores al segundo (donde se detiene el rastro de sangre de las escaleras): Incluso en el último piso, todos los vidrios están hechos pedazos.
+
+# Tabsa
+
+"La visita ha merecido la pena" pienso mientras vuelvo sobre mis pasos y me dirijo a la reunión con mi cuadrilla. No me gusta llegar tarde a los sitios, por lo que reflexionaré sobre lo que he descubierto más adelante.
