@@ -196,3 +196,23 @@ La sonrisa de Marc, por otra parte, era parcial y parecía estar cargada de iron
 
 - RIcard, eh. Un brujo. -Parece gratamente sorprendido.- He escuchado que podéis hacer cosas bastante asombrosas con esa sangre vuestra. Ja, qué bueno sería si pudieses sacar un asesino de dentro de un sombrero. ¿Serás tú parte de esa ayuda de la que la Camarilla tanto habla?
 
+# Ricard
+
+- Ya veo... Te tomo la palabra, Marc - Ricard ignora deliberadamente el comentario despectivo del setita hacia el Primogénito Toreador.- Como sabes, no me corresponde juzgar las decisiones políticas de mi clan respecto a la Camarilla, y, si te soy sincero, tampoco me importa demasiado, mientras se mantenga el orden. 
+
+Mira a su reloj de pasada, y se dirige a Jazmín:
+
+- Si no deséais nada más, he de abandonaros. La noche apremia y quedan tareas por hacer- extendiendo la mano- Si no te importa, Jazmín... Espero que tengamos ocasión de charlar en el futuro, siempre es un placer disfrutar de tu compañía.
+
+Nota: Si no hay más interacciones
+Antes de abandonar la escena, Ricard escribe otro mensaje a Iris:
+
+"He conocido al setita Marc en persona. Parece que el clan está resentido con los Toreadores porque estos están intentando sacar tajada del asunto, les han prometido La Fira si encontramos al asesino. He mantenido buenos términos con la serpiente, nunca se sabe que utilidad podría tener, pero el asunto cada vez huele peor. Saludos, R."
+
+Una vez mandado el mensaje, Ricard se dirige a su última parada, el refugio del Príncipe.
+
+# Master
+
+Mensaje de Iris:
+
+"No me sorprende de Hans. Lo mantendré vigilado. Gracias. Por cierto, sobre el otro nombre de la lista: Agueda es una malkavian sin sire que apareció de la nada como un año atrás. El príncipe se encariñó con ella, al parecer ella le sigue el juego con su paranoia. No sé nada ni de su pasado, ni de por qué Nicholas sentiría cualquier apego por un vástago random."
