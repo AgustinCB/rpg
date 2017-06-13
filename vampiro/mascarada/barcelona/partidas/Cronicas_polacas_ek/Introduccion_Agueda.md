@@ -19,3 +19,24 @@ Sabiendo que no es buena idea quedarte detrás suyo, cubierta de sombras, por mu
 Se gira hacia ti, por primera vez dejando de ver por la ventana y clavando sus ojos en los tuyos. Cada vez que los miras detenidamente hacia ellos te estremeces. Son ojos viejos, con siglos observando el mundo. Y muertos. Completamente. No hay más que una pequeña luz en ellos, una sola chispa de humanidad apenas inalcanzable. 
 
 - Irás con ellos a ver quién mató a los setitas. Éste es su primer error. Al ver que yo no salía de mi apartamento, han decidido actuar primero. Se han revelado. Ve ahí afuera, encuentra al asesino y ayúdame a pruebar que yo estaba en lo cierto.
+
+# Agueda
+
+Ok, siendo así... me alimenté de la conserje del comedor  No sé si he entendido bien cómo funciona la narración, soy un poco torpe/poco imaginativa, pero te cuento mis intenciones después de revisar mi ficha:
+Como tengo la intención de ayudar a Nicholas todo lo que pueda, acepto con sinceridad su oferta. Voy a ayudarlo a encontrar al asesino. Pero antes necesito que él coopere y me diga todo lo que pueda saber. Me acerco a la ventana para observar junto a él el coche que señalaba y le pido por favor (¿voz encantadora?) que me gustaría echarle un vistazo a su cuaderno de notas (auspex 3???).
+
+# Master
+
+No te preocupes! Tu interpretación ha sido perfecta.
+
+Desde que te alimentaste de la conserje de tu comedor, Olga, una mujer gruesa, amable y que recién entraba en los cincuenta, no puedes dejar de sentir un fuerte instinto maternal y de protección. Puedes escuchar recuerdos de ella con sus hijos y sus recién obtenidos nietos, disfrutando cada momento con ellos. Es hasta ahora uno de los humanos favoritos de quienes te has alimentado.
+
+Mientras hablas con voz dulce y tranquilizadora para convencer a Nicholas de que comparta contigo sus notas, sonríes y te muestras lo más accesible posible (aquí haces una tirada de Carisma+Empatía y usando tu Voz Encantadora para reducir la dificultad). En cuanto acabas, él te sonríe y te mira con confianza. Es una imagen casi grotesca, esa sonrisa sincera sobre esos ojos muertos. En silencio te extiende su cuaderno de notas.
+
+Para usar Auspex 3 necesitas tocar el objeto. Una vez hecho, tiras Percepción+Empatía para ver qué consigues sacar.
+
+Tomas el cuaderno y lo acercas hacia a ti. SUperficialmente, puedes ver cómo tiene notas de toda una serie de matrículas de vehículos y de descripciones concisas de personas con tiempos a su lado. Por ejemplo: "5776 NFS. Renault rojo. Pantalones negros, camiseta blanca. Cara aplastada. Ojos chinos. 7 minutos, 43 segundos."
+
+En cuanto lo tocas, sin embargo, puedes empezar a sentir muchísimo más. Lo primero que sientes es el peso de la antigüedad de Nicholas. Sientes setecientos de no vida y de continua sensación de persecución. Sientes setecientos años alimentándote de sangre y metido en campos de batalla. A continuación sientes su verdadera naturaleza, lo que lo mueve. Notas que esa naturaleza está ligada a su propia causa, acabar con la presencia del Sabbat, y su fanatismo para conseguirla. Notas cómo su conducta se ha convertido en hosca con los pasos de los años. 
+
+Te das cuenta de que el cuaderno lleva unos cinco meses en posesión de Nicholas y que ha sido utilizado cada noche, durante más de dos o tres horas. Puedes sentir la rabia y la impotencia que ha sido impresa en el cuaderno y el convencimiento de que cada persona apuntada ha confabulado contra él. Puedes sentir cómo ciertos patrones están escritos con mayor furia: Patrones que incluyen el negro, las vestimentas provocativas o femininas en hombres y sobretodo, las escasas notas que hacen referencias a personas travestidas.
