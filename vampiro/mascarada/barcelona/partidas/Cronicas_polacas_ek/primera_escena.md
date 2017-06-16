@@ -30,3 +30,17 @@ Cuando termina de hablar, se gira, centra su atención en la ventana de nuevo y 
 
 - Si necesitáis músculo, contactad a Ada. Ella os ayudará. Hacednos saber si tenéis alguna pregunta o si os podemos facilitar de algo.
 
+# Ricard
+
+Ricard escucha atentamente a Aleksander, para asentir al final de su intervención, dando a entender que acepta lo que se le ha encomendado y no tiene nada que añadir. Aparenta unos 30 años, y su aspecto es pulcro, cuidado y nada ostentoso. Su atuendo,desenfadado y oscuro como la noche, ponen de manifiesto más si cabe su extrema palidez y los mechones blancos que surcan su cabello.
+
+El vampiro observa a sus compañeros de cuadrilla alternativamente, con un gesto cortés y una mirada firme que se oculta tras unos anteojos negros, sin pronunciar palabra.
+
+# Tabsa
+
+Tabsa permanece un poco retirada de los demás. La experiencia le ha demostrado que la gente se muestra menos cortada si no tienen delante a una criatura tan horrenda. 
+
+Su cara es tan delgada que parece una calavera enmarcada por una cabellera rubia, escasa y sucia. Las manchas y erupciones de su piel, con aspecto infecto, la hacen parecer al borde de la muerte. Viste sencilla, con unos pantalones vaqueros de corte recto y una sudadera gris con capucha. Ambas prendas están sucias de barro y sangre seca.
+
+No gesticula ni responde ante la información recibida. Escruta a sus compañeros sin demasiado disimulo.
+
