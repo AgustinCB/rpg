@@ -44,3 +44,61 @@ Su cara es tan delgada que parece una calavera enmarcada por una cabellera rubia
 
 No gesticula ni responde ante la información recibida. Escruta a sus compañeros sin demasiado disimulo.
 
+# Agueda
+
+-De acuerdo, Aleksander -dice Águeda mostrándose solemne y a la vez comprensiva-, si mis compañeros están listos saldremos a investigar de inmediato.
+
+Águeda mira a los demás con un gesto amable animándolos a seguirla. Aunque es más bien pequeña y de aspecto corriente, su gusto vistiendo deja ver que alguna vez se rodeó de gente del mundo empresarial: unos chinos, un jersey de hilo y unos zapatos oxford.
+
+# Tabsa
+
+Tabsa mira a Águeda en cuanto oye su voz. A simple vista, parece su antítesis. Se cuestiona vagamente si llegarán a entenderse para cooperar.
+
+# Brais
+
+Brais escudriña minuciosamente a cada uno de sus compañeros. Su aspecto es de un joven de unos veintitantos, vestido a la moda de la època, apuesto y sus gestos y su forma de hablar, muestra una personalidad segura de si mismo y encantadora.
+-Queridos camaradas... ya veo que sois muy timidos jejeje - lanzando una mirada cómplice tanto Tremere como a la Malkavian, olvidando por completo el tercer ser que, por desgracia, debe ser su compañero.
+- Propongo trazar un plan de actuación acompañado de una buena copa de vino... no puede salir un buen plan sin una cierta.... estimulación sensorial.
+
+# Ricard
+
+Ricard mira al Toreador con una sonrisa fría, sin perder la compostura:
+
+- Siento tener que declinar la invitación, pero hay trabajo que hacer, y cuanto antes, mejor. Si resultas ser de utilidad, yo mismo pagaré esa copa, pero creo que el primer paso es dirigirnos a la escena y ver si encontramos algo, aunque estoy abierto a todo tipo de sugerencias. Además... algo me dice que no todos aquí disfrutamos con ese tipo de actividades. - finaliza mientras hace un gesto cortés hacia la retraída Tabsa y camina lentamente hacia Águeda.
+
+# Brais
+
+- jajaja, Vamos Ricard... no es necesario ponerse tenso... a fin de cuentas, todos queremos terminar cuanto antes.- sonríe conciliadoramente. 
+-Veamos pues que proponen las damas.
+
+
+# Tabsa
+
+-Yo estoy con Ricard. Bastante tiempo hemos perdido ya.
+
+La voz de la nosferatu suena un poco brusca, incómoda por la situación. Está acostumbrada a que la miren con curiosidad e incluso asco, pero no le gusta llamar la atención.
+
+# Agueda
+
+Águeda, con un tono contundente pero conciliador dice:
+- No hay más que hablar entonces. Démonos prisa, la policía nos está esperando y tenemos mucho trabajo que hacer.
+
+# Master
+
+Lo estás haciendo genial, simplemente me quería asegurar de que no os movía de lugar sin que hubieseis terminado.
+
+Sin muchos más preámbulos, os dirigís a la escena del crimen. Dado que no se encuentra particularmente lejos, decidís ir caminando. En menos de diez minutos, os cruzáis con el carrer Comtal mientras caminabais por la Via Laietana y dobláis a la derecha. A pocos pasos, a vuestra izquierda, os encontráis con un callejón cuya entrada está bloqueada por una cinta policial. Un par de coches policía están aparcados frente a ella y tres agentes se encuentran hablando entre sí. No hay nadie más en el lugar.
+
+Dicho callejón tiene aproximadamente diez metros de profundidad y termina en una pared de ladrillo. A la derecha parece haber un bar, a la izquierda un edificio residencial. Todos los cristales de ambos complejos están rotos, dejando un regadero de vidrio roto en el suelo, tanto en la escena misma, como en los alrededores. Contra la pared del edificio y debajo de una escalera de incendios, hay un contenedor de basura. Parece haber sido aplastado y sobre él hay un cadáver. Un rastro de sangre se extiende desde el mismo hasta aproximadamente un metro de distancia con la cinta policial.
+
+Tanto el bar como el edificio parecen haber sido evacuados, pero las zonas de los alrededores siguen activas. Frente a la cinta hay otro bar, casi vacío, y podéis ver cómo el resto de zonas residenciales tienen algún rastro de movimiento. 
+
+No pasa mucho hasta que los policías reparan en vosotros. Uno de ellos, de aspecto joven, cuerpo fibrado y corte militar, levanta la mano y se acerca a un ligero trote hacia donde estáis. Lleva una hoja en la mano y se dirige a Ricard directamente.
+
+- Señor, me he asegurado de que nadie más entre en la escena. Hemos despejado el área de mirones también, para que pueda trabajar en paz. -Os dirige una mirada a todos como un grupo.- ¿Es esta la cuadrilla de investigación, señor? ¿Sois... Policías?
+
+Tabsa tira Destreza+Sigilo
+
+El policía mira a Tabsa fijamente, con un ligero deje de preocupación.
+
+- ¿Se encuentra bien, señorita? ¿Necesita... Una ambulancia?
