@@ -102,3 +102,27 @@ Tabsa tira Destreza+Sigilo
 El policía mira a Tabsa fijamente, con un ligero deje de preocupación.
 
 - ¿Se encuentra bien, señorita? ¿Necesita... Una ambulancia?
+
+# Ricard
+
+Ricard interviene rápidamente, con naturalidad, intentando adelantarse a los demás:
+
+- Hola de nuevo, agente, buen trabajo. Sí, este es mi equipo: Águeda, Brais y Tabsa - explica mientras los señala alternativamente-. Puede comprobar los nombres en la lista si es necesario, en cuanto al resto de pormenores todo queda bajo mi responsabilidad directa, no se preocupe. Si alguien le pregunta o tiene algún tipo de problema jerárquico, dé mi nombre y yo me encargaré de gestionar la situación. En cuanto a mi compañera, está perfectamente, a veces los actos de servicio no siempre tienen un final agradable... supongo que me entiende. (Manipulación + subterfugio) si es necesaria tirada
+
+Volviéndose a sus compañeros con tono profesional, dando por finalizada su explicación al agente:
+
+- Como os comenté anteriormente, hay multitud de detalles que encontraréis interesantes y que van más allá de mis conocimientos...
+
+# Master
+
+Tres dieces 
+
+El policía abre los ojos mientras hablas con él. Su rostro refleja una mezcla de envidia, admiración y estupefacción.
+
+- Joder, ¿le pasó en combate? Seguro que son de algún grupo de fuerzas especiales. -Dice para sí mismo.- Joder, son peces gordos. Perdón señor, quiero decir, impresionante. -Notas cómo se pone nervioso y tenso.- Es decir, está bien. Lo dejo señor. Por favor, avíseme si les puedo ayudar. ¡Yo espero algún día moverme a las fuerzas especiales también señor!
+
+Al no obtener mucha más respuesta y con un deje de inseguridad, decide darse la vuelta y volver con los otros agentes. Desata una de las esquinas de las cinta policial y os hace señas para que paséis.
+
+Una vez dentro, os encontráis de frente con el cadáver, que se encuentra boca abajo en una de las abolladuras del contenedor de basura. Lleva una chaqueta de cuero, unos pantalones de jean y zapatillas deportivas. Cabello oscuro, muy corto en los lados, pero largo en el medio, con los mechones ligeramente recostados sobre la derecha. Un fuerte olor a sangre y descomposición se empieza a apoderar del ambiente. 
+
+- Los del bar de enfrente se quejaron del olor señor, pero yo les hice saber que teníamos que dejar todo intacto para ustedes, señor.
