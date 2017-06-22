@@ -142,3 +142,40 @@ A continuación, se apoya en una de las paredes del callejón cruzado de brazos,
 Tabsa se dirige a Ricard manteniendo la distancia.
 
 -Gracias. Cualquier explicación sonará más convincente si viene de cualquiera de vosotros. Has comentado que has pasado antes por aquí, ¿no? ¿Has encontrado algo de interés?
+
+# Ricard
+
+- La verdad es que no. Al tipo parece que le dispararon y luego le remataron, y por ahí - señalando vagamente hacia una escalera de incendios- parece que hay un rastro, pero la medicina forense y la investigación no se cuenta entre mis principales talentos, me temo que no soy un hombre de acción.- contesta Ricard con un deje irónico en la voz.
+
+# Brais
+
+El toreador se separa del grupo inspeccionando la escena del crimen y el cadáver de manera minuciosa.
+
+# Master
+
+Un par de comentarios: Voy a hacer las tiradas explícitas en esta escena para que veáis cómo funciona . Normalmente las seguiré abstrayendo, pero así sabréis de qué va y si queréis hacer algo por vosotros mismos podéis.
+
+Además, normalmente tendrías que decirme cuando queréis activar una disciplina. Aquí, por ejemplo, tiene sentir tener Auspex activado. En general, siempre que vayáis a hacer algo que requiera usar vuestros sentidos y tengáis la disciplina, os conviene activarlo. Voy a suponer que Lilith lo usa en este caso para hacerlo más fluido y por echaros una mano al principio, pero normalmente lo haría solo cuando ustedes me digan.
+
+Ella tiene que hacer una tirada de Percepción+Investigación. Tiene cuatro puntos en el primero y cero en el segundo, así que tira cuatro dados. La dificultad es de seis, pero como tiene Auspex 1 activado, se baja a cinco. Sus resultados: 7, 10, 7, 9. Como sacó un diez, tiro un dado más: 10. Tiro de nuevo: 3. Un total de cinco éxitos con dos dieces. Eso es una tirada MUY buena, así que consigue sacar mucha información de la escena.
+
+Mientras caminas por la escena vas notando ciertas cosas. La primera es que hay un rastro de sangre en las escaleras. Pisadas parciales que suben hasta el segundo piso. Donde el rastro se detiene, notas que hay una mancha de sangre grande en el barandal directamente debajo del contenedor. Además, ves dos marcas distintas de calzado en el suelo. Mientras estás ahí notas algo más que te llama la atención: A pesar de que no hay marcas de sangre más arriba, todos los vidrios del resto del edificio están rotos. Es decir, el rastro se detiene en el segundo piso, pero las ventanas están rotas hasta el último (hay un total de cinco).
+
+Luego de que vuelvas a bajar, te detienes a inspeccionar el cuerpo. Notas que los contenedores tienen dos abolladuras, pero el cuerpo se encuentra recostado solo en una, la derecha. La izquierda tiene un par de marcas de calzado hechas por sangre, pero por lo demás está impoluta. El cuerpo tiene un disparo a la altura de los riñones y cuatro cortes paralelos en el cuello (Tirada de Percepción más ocultismo, cuatro dados por el primero, cero por el segundo. Dificultad 9. Resultado: 4, 10, 9, 4 y 2). Los dos del medio son más largos que los de afuera y parecen demasiado irregulares para haber sido hechos con un arma de filo. Te da la impresión de que es de origen sobrenatural, pero no consigues reconocer de qué tipo exactamente. Mueves (con mucho asco) el cuerpo para echar un vistazo a su frente. Notas que el disparo se hizo de frente y que la bala aún está en el cuerpo.
+
+(Only for Tabsa)
+
+Tirada de Percepción+Alerta para ver si ves el rostro del tipo. Dificultad 8. Ocho dados (cuatro por percepción, cuatro por Alerta). Resultados: 1, 5, 1, 2, 10, 7, 8, 10. Los dos unos cancelan los dos dieces. Un éxito, alcanzas a verlo. Ahora tiras Percepción+Callejeo para ver si lo reconoces. Ocho dados de nuevo. Dificultad 7. Como tienes más dados que dificultad, consigues un éxito automático. Resultados: 9, 7, 1, 1, 3, 7, 4, 8. Un total de tres éxitos. Lo reconoces.
+
+Cuando miras el rostro del cadáver, lo reconoces en seguida: Idir, un camello que mueve heroína por la zona centro. No es un peón cualquiera, sabes que trabaja para los proveedores más importantes de la ciudad y que se encarga de distribuir la mercancía a lso traficantes locales y recolectar ganancias. Has escuchado un par de historias sobre personas que no pagaron a tiempo y acabaron con las piernas rotas por su culpa. Tiene fama de ser un tipo duro y matón de primera clase. Tu contacto trabajó con él definitivamente.
+
+# Agueda
+
+Águeda da una vuelta por la escena (percepción+investigación? + sentidos agudizados?) mirando atentamente los contenedores, las huellas y las manchas de sangre, como tratando de imaginar qué pudo ocurrir allí. De pronto mira hacia lo más alto del edificio.
+
+- ¿Qué pensáis de los cristales? ¿Cómo es posible que incluso los del quinto piso estén rotos?
+
+Pensativa, se dirige hacia Ricard (no sé si debería usar algún atributo+habilidad con él o entre nosotros no cuenta):
+
+- Oye, Ricard, me gustaría pedirte algo. Ya que parece que el agente está dispuesto a colaborar contigo, ¿crees que podríamos conseguir que me dejasen ver la bala?
+
