@@ -126,3 +126,19 @@ Al no obtener mucha más respuesta y con un deje de inseguridad, decide darse la
 Una vez dentro, os encontráis de frente con el cadáver, que se encuentra boca abajo en una de las abolladuras del contenedor de basura. Lleva una chaqueta de cuero, unos pantalones de jean y zapatillas deportivas. Cabello oscuro, muy corto en los lados, pero largo en el medio, con los mechones ligeramente recostados sobre la derecha. Un fuerte olor a sangre y descomposición se empieza a apoderar del ambiente. 
 
 - Los del bar de enfrente se quejaron del olor señor, pero yo les hice saber que teníamos que dejar todo intacto para ustedes, señor.
+
+# Ricard
+
+Ricard se dirige hacia sus compañeros sonriendo:
+
+- Disculpad que tomase la iniciativa, pasé por aquí de camino a la casa del Príncipe y traté anteriormente con este mismo agente, por lo que creí conveniente ocuparme del asunto de manera rápida y limpia sin involucraros demasiado. 
+
+A continuación, se apoya en una de las paredes del callejón cruzado de brazos, haciendo un gesto con la cabeza en dirección al lugar donde se encuentra el cadáver:
+
+- Todo vuestro.
+
+# Tabsa
+
+Tabsa se dirige a Ricard manteniendo la distancia.
+
+-Gracias. Cualquier explicación sonará más convincente si viene de cualquiera de vosotros. Has comentado que has pasado antes por aquí, ¿no? ¿Has encontrado algo de interés?
