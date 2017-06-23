@@ -179,3 +179,55 @@ Pensativa, se dirige hacia Ricard (no sé si debería usar algún atributo+habil
 
 - Oye, Ricard, me gustaría pedirte algo. Ya que parece que el agente está dispuesto a colaborar contigo, ¿crees que podríamos conseguir que me dejasen ver la bala?
 
+# Master
+
+Sobre tus teorías, los dados no deciden qué piensas. Así que siéntete libre de teorizar todo lo que quieras.
+
+A Althea le gusta presumir  Éste es el ambiente donde se mueve mejor. Su personaje tiene cuatro puntos de Percepción y dos de Investigación. Son seis dados. La dificultad es seis, pero como tiene sentidos agudizados con Auspex tres, baja tres. Tiene un éxito seguro por tener más dados que dificultad. Y su resultado fue: 9, 9, 8, 6, 3 y 7. Es decir, siete éxitos.
+
+Además de todo lo que ha visto Lilith, descubres tres cosas interesantes: La primera es que los cortes en el cuello del cadáver, además de ser de origen sobrenatural, son definitivamente no vampírico. Has visto las garras de Aleksander o Ada y ésas no se correspenden a nada que un Gangrel pueda tener. Sea lo que sea, no era humano ni vampiro. La segunda, es que además de rastros de sangre, notas un pequeño rastro de aceite de vehículo, de motocicleta particularmente, en la huella que hay en la segunda abolladura de los contenedores. La última es que desde las escaleras de incendio puedes ver sin ningún problema hacia dentro del bar de enfrente, hasta el punto de poder cruzar miradas con el único cliente ahí.
+
+# Ricard
+
+-Águeda, parece ser que la bala aún está en el cuerpo. Intentar sacarla interferiría directamente con la investigación - encogiéndose de hombros- pero a mí personalmente me importa un carajo. Si estos humanos quieren jugar a ser True Detective, pueden hacerlo una vez que haya acabado mi trabajo.
+
+Dirigiéndose hacia el resto:
+
+- Habéis encontrado algo que nos sugiera qué hacer a continuación? La policía me comentó anteriormente que nadie en el bar había visto nada, pero quizás es hora de tomar una copa - guiñando el ojo a Brais- y ver si realmente no han visto nada...
+
+# Tabsa
+
+-Trataré de averiguar lo que pueda sobre el fiambre. Mientras tanto, apoyo investigar en el bar. El alcohol y un interlocutor persuasivo - Tabsa mira a sus compañeros - deberían ser suficientes para refrescarles la memoria. Venga ya, un crimen así no pasa desapercibido.
+
+# Brais
+
+-Hmmmm, estos cortes en el cuello.. quizá esta situación es peor de lo esperado... tal vez Lupinos? Qué otra criatura podría dejar tales cortes?.- inquiere Brais con el ceño fruncido.-
+En cualquier caso, si me disculpais, voy a pedir esa copa... jejeje, seguro que tras una maravillosa "charla", estarán más dispuestos a cooperar jejeje.
+
+# Ricard
+
+- Brais, necesitas compañía o prefieres hacerlo solo?
+
+Mientras habla, Ricard mira al edificio y a la escalera de incendios con aire reflexivo.
+
+# Brais
+
+-Ven si crees que vas a ser de utilidad.
+
+# Ricard
+
+- Venga, vamos allá, entre los dos acabaremos antes.
+
+# Master
+
+Solo para aclarar, Fara y Lilith van al bar, Batsa y Althea siguen en la escena.
+
+Cruzáis la calle en dirección al bar. Es un establecimiento pequeño, de unos cincuenta metros cuadrados, con un par de mesas y una barra con un par de asientos altos. Detrás de ella hay un par de estanterias llenas de botellas. El lugar huele a alcohol, tiene colores grisaseos y está muy pobremente iluminado.
+
+Hay solamente dos personas. El único cliente, sentado en la barra, sostiene una jarra de cerveza. Tiene una barriga prominente y está calvo, pero también posee facciones agraciadas, dando un aire de haber sido atractivo diez años atrás. El camarero se encuentra limpiando vasos. Posee cabello cano, piel extremadamente blanca y complexión delgada. Parece estar entrado en los cincuenta.
+
+Mientras toma un trago largo, el primero dice:
+
+- Te dije, Arnau, que iban a venir a preguntar. -Su voz tiene altos bajos y deja en evidencia que está borracho.- Estos estaban con los policías unos minutos antes. Te dijen que iban a venir a preguntar de nuevo. Si me dejases hablar a mí.
+
+- Cállate, Gustavo, nadie quiere escuchar tus cuentos de fantasmas. -Dice cortante el otro antes de dirigirse a ustedes.- ¿Puedo ayudarlos en algo?
