@@ -231,3 +231,120 @@ Mientras toma un trago largo, el primero dice:
 - Te dije, Arnau, que iban a venir a preguntar. -Su voz tiene altos bajos y deja en evidencia que está borracho.- Estos estaban con los policías unos minutos antes. Te dijen que iban a venir a preguntar de nuevo. Si me dejases hablar a mí.
 
 - Cállate, Gustavo, nadie quiere escuchar tus cuentos de fantasmas. -Dice cortante el otro antes de dirigirse a ustedes.- ¿Puedo ayudarlos en algo?
+
+# Tabsa 
+
+Imagino que ahora cada uno interactua por su lado, ¿no?
+
+Tabsa se acerca a Águeda por la espalda. Al hablarle, le da la sensación de que se sobresalta. 
+
+-Águeda, ¿Conocías a alguno de ellos antes? - Señalé con el pulgar en la dirección en la que se habían ido nuestros compañeros.
+
+# Althea
+
+- Esta noche ha sido la primera vez que os veo a todos -afirma Águeda con una sonrisa tímida pero amable-, así que tampoco los conocía a ellos.
+
+Águeda se aproxima lentamente hacia el cadáver, parándose después de unos pasos para girar la cabeza hacia Tabsa:
+
+-¿Qué te parece si nos saltamos un poco las normas, Tabsa? Creo que esa bala nos ayudaría mucho en la investigación y temo que si la policía la retira puedan tardar demasiado en mostrarnos lo que hayan descubierto... en fin, parece que Ricard los conoce, tal vez él pueda ayudarnos si resulta que nos metemos en un lío. Ayúdame, por favor.
+
+# Ricard
+
+Ricard mira a Brais con media sonrisa, tras escuchar al parroquiano y contemplar toda la escena, susurrándole:
+
+- ¿Poli bueno, y poli malo?
+
+# Brais
+
+Brais asiente ante la propuesta de su colega.
+-Buenas tardes, caballeros!- saluda encantadoramente a ambos.- Ponganos un par de copas del mejor vino que tenga.
+Vaya la que tenéis ahí montado eh? No me gustaría ser el tipo ese jejeje - ríe Brais, mientras se sienta en la banqueta de al lado del cliente.
+
+# Ricard
+
+Ricard camina lentamente por el local, observándolo todo, con movimientos pesados y calculados. Finalmente, se apoya en una de las mesas a cierta distancia, saca un pañuelo y comienza a limpiar sus gafas, mientras mira fíjamente al camarero y al parroquiano. Aprovechando que Brais ha tomado la iniciativa,observa minuciosamente a las dos personas y trata de captar algún detalle que sea significativo o sugiera peligro en sus actitudes ( ¿Inteligencia + empatía?).
+
+# Master
+
+Notas que el client, Gustavo, está definitivamente borracho. El camarero, por su parte, parece sentirse a la defensiva y lanza miradas de reojo al primero cada pocos segundos, como si estuviese controlando su comportamiento.
+
+
+Gustavo está a punto de ponerse a hablar, pero Arnau se le adelanta.
+
+- Prou. Deja de espantarme clientes, coño, que me voy a morir de hambre si no. -Lo hace con una sonrisa en la boca, pero podéis ver clara preocupación en su voz. Dirigiéndose a Brais, dice: - ¿Vino? Tengo... No sé algo por ahí. Vino. -Busca entre sus botellas y saca una llena de polvo en la que difícilmente distinguís lo que dice en la etiqueta. Sirve dos copas y las pone frente a vosotros.- Disculpad a Gus. Es un credúlo sobrio, cuando está borracho no se controla y le cuenta a todo el mundo sus historias de terror. No es lo mejor para el negocio, más cuando luego de lo que viene pasando éstas semanas. ¡Es el tercer muerto en el barrio! Y ahora en frente a mi bar. A ver quién paga la hipoteca.
+
+# Tabsa
+
+-Sí, yo también lo creo -Tabsa asiente pensativa - ¿Quieres hacer los honores? Puede llegar a ser un poco... desagradable.
+
+# Brais
+
+- Estoy seguro que podríais darnos más detalles sobre lo ocurrido tanto hoy como en las últimas semanas. Además habreis visto quienes fueron los que perpretaron tales actos, o al menos lo intuis.
+
+# Master
+
+Arnau suspira. Mira el vaso y a Gustavo, quien le sonríe.
+
+- Esto se merece que me compres otra copa, eh. -Dice. Sin esperar respuesta te pone otra.- A ver, esto es un barrio pequeño, nos conocemos todos. Los chicos que murieron... Bueno, se juntaban con quienes se juntaban. Movían droga. Todos sabíamos que iban acabar así. Quizá no que iban a morir tan seguido, pero si te metes en estas cosas... Bueh, ya sabes con qué juegas. Ya se lo dijimos a los policías, ni bien escuchamos la moto, miramos a otro lado. Sabíamos qué iba a pasar y no queríamos verlo. A Idir lo vi yo crecer, no me apetece verlo morir. Ni bien escuchamos la moto, miramos a otro lado. Y luego pum, dos balazos escuchamos. Uno, el segundo, muy muy fuerte. Y eso fue todo. 
+
+- Los otros también se murieron por el motorista. -Salta Gustavo.- Por eso sabíamos que iba a pasar. Ya se habla del motorista, ya...
+
+- Gustavo tiene teorías más alocadas. -Se ataja Arnau.- Pero lo que yo dije es lo que pasó de verdad. Y fue lo que le dije a la policía. Lo demás... Bueno, lo demás son cuentos para vieja.
+
+# Ricard
+
+- Pues resulta que a mí me interesan los cuentos para viejas, déjalo hablar. Si le vuelves a interrumpir asumiré que estás obstruyendo la operación, y eso puede conllevar problemas. Has dicho que tienes que pagar una hipoteca y mantener un negocio, nosotros también tenemos que hacer nuestro trabajo. Te aconsejo que colabores plenamente con mi compañero, no te conviene hacer esto difícil.
+
+La voz de Ricard es cortante y autoritaria.
+
+# Althea
+
+"De acuerdo", dice Águeda mientras traga saliva.
+
+aquí uso percepción, o algo de eso? Auspex?
+
+Dubitativa camina hacia el cuerpo y se agacha sobre él. Primero acerca sus manos a la herida de bala, como si pudiera sentir algo. Pasados unos minutos se arma de valor y, con cara de asco, introduce dos dedos en la herida para buscar la bala.
+
+# Master
+
+Para Fara y Lilith
+
+Arnau traga saliva y mira para abajo, visiblemente avergonzado. Le hace un gesto con la mirada a Gustavo y se pone a limpiar los vasos, sin atreverse ni a hablar, ni a mirar a Ricard a los ojos. El otro, por su parte, sonríe abiertamente, contento de poder hablar. Se acomoda en el asiento y mira a Ricard.
+
+- Je, te voy a contar qué pasó. Es una historia, igual. Así que tené paciencia. -Le escuchas un marcado acento sudamericano.- Mirá, acá en el barrio hay mucho inmigrante. Es un sitio bueno para vivir para los que venimos de fuera. Uno de estos pibes era el Negro. El Negro se vino de Colombia con la vieja cuando tenía doce años, hace como ocho años. La vieja, una dulzura. Las empanadas que hace... ¡Mamá! Para chuparse los dedos. Un día tienen que ir pa su casa a comerlas. Son lo mejor.
+
+>> Total, que se viene pacá. El Negro es, bueno era, un buen pibe, pero un poco vago. No estudiaba, no trabajaba, no hacía una mierda. Llega a la adolescencia, se la pasa de fiesta y se termina de ir todo a la mierda. La vieja, la vieja lloraba todos los días. Aquí en el bar lloraba por el crío. Un pendejo boludo. Total, que entre fiesta y fiesta conoce mala gente. Tipos feos, que mueven merca. Moro, viste. Y lo meten a él también ahí a mover falopa. El trato era: Le daban la mercancía, un precio, él la movía y les devolvía a los tipos un porcentaje. ¿Qué porcentaje? Ni puta idea, pero un porcentaje.
+
+>> Y el negro, que es un boludo, se mete ahí. Y pasa y pasa, y merca pallí y merca pallá. Se compra piso, coche, se compra novia rusa modelo. Todo. Se da lujitos. Y claro, se gasta pasta, viste. Las rubias rusas no son baratas. Así que por más que mueve falopa, se queda sin dinero. Y entonces el Negro hace la primera boludez: Se queda con guita. A los moros le roba el tarado. Les da menos del porcentaje acordado. Claro, el Negro se piensa que no se iban a dar cuenta, pero los moros no son tontos y se dan cuenta. Y le dicen: "Macho, no nos cagues o te cagamo'." El Negro se hace el tonto, dice que fue un error y ya.
+
+>> Dos meses después, el boludo, porque no hay otra manera de decirlo, es un boludo, repite. Y les roba de nuevo. Les roba de nuevo, te podés creer. Claro, lo' otro' se ponen loco'. Y se van a verlo a su casa. Con bates, con pinzas, con todo. Le dan una paliza mala. Le violan a la novia enfrente suyo. La matan. Le destrozan el departamento. Le quitan el dinero. Y lo mandan al hospital. En coma lo dejaron. Lo' médico' le dieron una semana. El último día, cuando se suponía que iba a morir... PUM. El cuerpo desaparece del hospital. Lo' médico' dicen que hubo un error y que l ocremaron sin querer. Pero nadie vio el cuerpo. La madre lloraba. No sabés cómo lloraba la pobre vieja. Acá en el bar. Y lógico. Ni funeral le dieron a la vieja. No te miento, eh, que te diga Arnau, no te miento. 
+
+>> Hasta acá es la versión oficial. La que se saben todo' en el barrio. Preguntale a quien quieras. A. Quien. Quieras. Total, que las malas lenguas dicen que la historia no acabó así. Las malas lenguas dicen que la última noche, el Arnau se despierta de madrugada y hay un tipo sentado en su cama. Trajecito, pelo engominado, uña del dedo meñique sospechosamente larga. El mandiga. Se le aparece el puto mandinga al Negro. El diablo, pa lso gallegos. Nosotros lo llamamo' mandinga. 
+
+>> Total, que se le aparece y le dice: "Mirá Negro, te propongo un trato. Te voy a dar una pistola que nunca falla. Te voy a dar una moto rápida como un rayo, que funciona con sangre. Te voy a dar fuerza y velocidad sobre humano. Y vos vas a usar todo eso pa trarme a lo' que te cagaron. Matalos. Agarrá venganza. Y traeme sus almas. Y yo te doy tó eso." Y el Negro, el Negro aceptó.
+
+>> Ahora lo' está bajando. Uno por uno, todo' tan muriendo. La voz se corrió, viste. Olvidate. Ahora todo' lo' camello' tiemblan cada vez que oyen una moto muy ruidosa. Se cagan. Se les cae la tanga. El Negro se cobra venganza. Y eso fue lo pasó, viste. Fue el Negro. Escuchamo' la moto acá nosotros. Escuchamo' lo' do' disparos. Uno fue tan ruidoso que rompió to' lo' vídrios. Decime si eso no es cosa del mandinga. ¡Es cosa del mandiga!
+
+Mientras tanto, Althea y Batsa. Althea, tirás Destreza+Medicina. Dos dados, ocho de dificultad: 2, 6. Asumo que tenés Auspex activado.
+
+A medida que metés los dedos en el cuerpo, con mucho asco, vas removiendo el cuerpo. La sangre se empieza a escapar y te llena las manos. Seguís escarbando, abriendo la herida, con casi ningún éxito. Luego de dos o tres minutos, sigues sin tener la bala, la herida se ha hecho de casi diez centímetro, hay sangre en todas partes y parte de las entrañas se empiezan a escapar del cuerpo. No consigues dar con la bala. 
+
+Tabsa observa la escena con curiosidad. Cuando Agueda termina, se queda quita. Mira en frente y parece completamente perdida durante unos minutos. 
+
+Spoiler: Althea Mostrar
+
+Tiras pa Auspex.
+
+Mientras escarbas, empiezas a sentir información del difunto. Idir Ouhab. Veintiséis años. Sientes... miedo. Un dolor punzante en el estómago, muy punzante. Miedo. Sientes una fuerza estraña y ganas de escapar. Oyes el ruido más horrible que has oído en tu vida. Se te aturden los sentidos. No ves con claridad, no te orientas con claridad, hay un sonido punzante, agudo, en tu oído. Te hace daño. Te deja la cabeza dada vueltas. Sientes dolor. En tu cuello. Un dolor inhumano. Y es lo último que sientes. Durante dos minutos te quedas con una sensación de vacío. Te cuesta mucho volver a recuperar la consciencia.
+
+# Tabsa
+
+Tabsa escruta el rostro de Águeda, manteniendo las distancias.
+
+-No tienes buen aspecto - La nosferatu chasquea la lengua.
+
+Mientras su compañera se recupera, Tabsa dirige la mirada al bar donde habían ido sus otros dos compañeros. ¿Habrían averiguado algo?
+Vuelve a mirar a Águeda, que parece recomponerse. Se siente impaciente.
+
+-¿La has encontrado o no? - Gruñe.
+
