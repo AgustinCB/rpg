@@ -348,3 +348,19 @@ Vuelve a mirar a Águeda, que parece recomponerse. Se siente impaciente.
 
 -¿La has encontrado o no? - Gruñe.
 
+# Ricard
+
+Ricard escucha atentamente el relato de Gustavo. En sus manos había aparecido una libreta y un boli, en la que iba realizando anotaciones, "El Negro", "camellos moros", "droga", "madre del Negro", "¿Vampiro? ¿Sire?", "meñique", "moto"... de manera sistemática y metódica. Saca su teléfono móvil, y como cambiando de opinión, lo guarda de nuevo en su bolsillo. 
+
+Cuando el parroquiano termina su relato, mira a Brais dándole a entender que por su parte tiene toda la información que necesita y no tiene más que añadir.
+
+# Brais
+
+- Sabes donde podemos encontrar a la madre del Negro? Si se mueve por esta zona, no creo que viva lejos.
+
+# Master
+
+Arnau y GUstavo se miran un poco pensativos. Arnau dice:
+
+- La señora vive por la zona, sí, le puedo dar la dirección. A unas manzanas. Pero es un poco tarde, ¿no cree? Es una mujer mayor, se va a dormir muy temprano.
+
