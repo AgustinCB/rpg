@@ -364,3 +364,46 @@ Arnau y GUstavo se miran un poco pensativos. Arnau dice:
 
 - La señora vive por la zona, sí, le puedo dar la dirección. A unas manzanas. Pero es un poco tarde, ¿no cree? Es una mujer mayor, se va a dormir muy temprano.
 
+# Agueda
+
+Águeda vuelve en sí después de un rato, todavía pálida y aturdida por lo que acaba de sentir.
+
+- No he encontrado la bala... pero será mejor que nos encontremos con los demás y pongamos en común lo que hemos averiguado. Tengo que limpiarme este desastre -se mira las manos y el jersey manchado de sangre-, espero que los del bar no se asusten demasiado. ¿Vamos?
+
+# Ricard
+
+Ricard resopla ostensiblemente y se dirige a Arnau con tono intimidatorio:
+
+- Creí que nos estábamos entendiendo, no sé si comprendes aún que una persona ha muerto y que me importa un comino si la vieja duerme o está haciendo ganchillo. De hecho, estoy comenzando a pensar que tienes cierto interés personal en alejarnos de esa casa, ¿tienes algo que contarnos? Si es así, hazlo ya, y si no apúrate y pon lo que quiera durante toda la noche a la única persona en este bar que ha resultado ser de utilidad.
+
+Abriendo su cartera, saca 50e y los tira sobre la barra. Sin dejar responder a Arnau, se dirige hacia el Toreador:
+
+- Brais, acaba tú con esto, por favor, si sigo un minuto más en este antro alguien va a pagar las consecuencias.
+
+Una vez termina de hablar, Ricard sale al exterior del bar dando un portazo y se dirige hacia Águeda y Tabsa.
+
+# Brais
+
+- No creo que haga falta decir mucho más. La dirección. Ya. - dice Brais extendiendo un trozo de papel sobre la barra del bar.
+
+# Tabsa
+
+-De acuerdo, vamos -Tabsa comienza a andar hacia el bar - A ver si conseguimos no llamar mucho la atención.
+
+# Agueda
+
+Mientras Águeda camina junto a Tabsa, se encuentran a Ricard saliendo por la puerta.
+
+- Toda esta carnicería y no he podido averiguar casi nada excepto su nombre y algunas sensaciones horribles de cómo murió. Espero que vosotros hayáis tenido más suerte, nosotras no hemos conseguido la bala.
+
+# Master
+
+Arnau mira para abajo, visiblemente incómodo y avergonzado.
+
+- Yo no... Es por ella... No quería... -Suspira.- Carrer Montsió. Carrer Montsió número siete, segundo piso, departamento izquierda.
+
+# Brais
+
+Brais recoge la nota con la dirección mirando fijamente a Arnau. Realiza un movimiento de cabeza y sale del negocio en dirección a sus compañeros.
+- Ya tenemos lo suficiente para el siguiente paso- anuncia con la nota entre los dedos agitandola con brío.
+
